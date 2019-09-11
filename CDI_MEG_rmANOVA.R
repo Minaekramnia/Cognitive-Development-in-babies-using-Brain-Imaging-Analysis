@@ -1,6 +1,6 @@
 # Title     : Repeated Measures ANOVA
 # Objective : Model selection for MMN-Dataset
-# Created by: ktavabi
+# Created by: Mekramnia
 # Created on: 11/5/18
 
 ###########################
